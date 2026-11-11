@@ -1,4 +1,2 @@
 # kdk_readme
-A ultra simple thing that is not even a script.  
-It was rtf file but i converted it to md via gemini.  
-Found this in `Payload/./KDK.ReadMe.rtfd`. 
+This repository is purged because of Copyright issues. This file is owned by apple, and should never re-distribute.
